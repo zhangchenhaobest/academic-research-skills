@@ -1,3 +1,29 @@
+# academic-research-skills
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Academic Research Skills for Claude Code: research → write → review → revise → finalize
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+Claude Code 的学术研究技能：研究、写作、评审、修订到定稿。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Academic Research Skills for Claude Code
 
 [![Version](https://img.shields.io/badge/version-v3.24.3-blue)](https://github.com/Imbad0202/academic-research-skills/releases/tag/v3.24.3)
